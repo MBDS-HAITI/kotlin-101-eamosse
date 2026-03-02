@@ -5,7 +5,6 @@ fun main() {
     println("👋 Welcome to the Kotlin Playground!")
     println("Let's start learning step by step.\n")
 
-
     // ✅ EXERCISE 1 Variables:
     // Create two variables: `city` (String) and `temperature` (Double)
     // Then print: "It is {temperature}°C in {city}"
